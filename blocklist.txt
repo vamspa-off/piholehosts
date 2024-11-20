@@ -13,3 +13,7 @@
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 advertising.twitter.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 samsung-com.112.2o7.net
